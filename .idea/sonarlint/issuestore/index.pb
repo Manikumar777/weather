@@ -1,0 +1,47 @@
+
+S
+#weatherInfo/weatherInfo/settings.py,3\4\343c6b409711edadb0eaa4062e17f696f9a9cdb7
+[
++weatherInfo/weatherApp/templates/index.html,8\a\8ad8faac2f04bf9acd0f49bb6cea6e3227c88954
+Y
+)weatherInfo/weatherApp/save_data_to_s3.py,e\0\e05503e18b538617f1544073ea08d420c1135ec6
+O
+weatherInfo/weatherApp/views.py,1\1\118449972d148690de9a7983d864372d6497f84e
+P
+ weatherInfo/weatherApp/models.py,6\d\6dd887d700b6f4994cbfbbcbd4557859d4763b59
+a
+1weatherInfo/weatherApp/migrations/0001_initial.py,5\2\52401dc0fa051beb7c3dddd1b963e5aba9ef7029
+O
+weatherInfo/weatherApp/admin.py,3\5\3529169770a1e1c81a99189081f8f99f4144156b
+O
+weatherInfo/weatherApp/forms.py,e\0\e0a1edba79482b4cdba250631d413b0b90d2728e
+N
+weatherInfo/weatherApp/urls.py,d\0\d0b38c1c60ad8009ea8aa7421b50dae62dd3a6b3
+O
+weatherInfo/weatherInfo/urls.py,a\9\a9b044f5a1bf320f6c252023d469652ec593588b
+O
+weatherInfo/weatherInfo/asgi.py,b\5\b5f9d5f48f5f0e3692a26882e91b21b57257df9e
+O
+weatherInfo/weatherInfo/wsgi.py,3\9\399cb75544a20859b22d4a17f6012ff3e7917808
+F
+weatherInfo/db.sqlite3,7\e\7e8e84a0705a84f30c04f79dd162c0264d617a5d
+f
+6weatherInfo/weatherApp/migrations/0002_city_country.py,f\9\f9253456f2345027a1a144a8ed5efc1df35d72a9
+O
+weatherInfo/weatherApp/tests.py,4\a\4adfaeb47859f484407c215987053e5e65ca60c2
+k
+;weatherInfo/weatherApp/templates/registration/register.html,c\2\c29210818e90116aeba8aa6a7e50d713a30f54f2
+h
+8weatherInfo/weatherApp/templates/registration/login.html,4\b\4b9a77f5ebabd70dfe21f9f532c8257317b67245
+i
+9weatherInfo/weatherApp/templates/registration/search.html,7\4\74fa89dccbd85a9a7a6be95d736d41a9b7ac179c
+i
+9weatherInfo/weatherApp/templates/registration/logout.html,2\9\29a486ba4e7ba790b906b652fa31eb17236d7bbb
+h
+8djangoenv/Lib/site-packages/django/views/generic/base.py,f\b\fb1283188c9e2752f45233562fd4924497fa6f97
+m
+=djangoenv/Lib/site-packages/rest_framework/authtoken/admin.py,6\b\6be029159b01649b8041937d79d40789d0acf53a
+e
+5weatherInfo/weatherApp/migrations/0003_weatherdata.py,a\3\a3372869808df2e124fd5574a8efe70a97428525
+N
+weatherInfo/weatherApp/apps.py,d\2\d20efc14618d53b810e7cb128069aff7f9f3cc81

@@ -1,0 +1,44 @@
+<!-- Your HTML code -->
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Weather Data History</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            text-align: left;
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Weather Data History</h1>
+    <table>
+        <tr>
+            <th>City</th>
+            <th>Temperature</th>
+            <th>Humidity</th>
+        </tr>
+        {% for weather in weather_data %}
+            <tr>
+                <td>{{ weather.city }}</td>
+                <td>{{ weather.temperature}}</td>
+                <td>{{ weather.humidity }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
+
+<!-- Your remaining HTML code -->
